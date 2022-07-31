@@ -1,4 +1,3 @@
-# Avital Rose 318413408
 import torch
 import torch.nn as nn
 import math

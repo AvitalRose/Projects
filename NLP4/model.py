@@ -1,4 +1,3 @@
-# Avital Rose 318413408
 import torch.nn as nn
 import torch
 from utils import SentenceEncoder

@@ -1,4 +1,3 @@
-# Avital Rose 318413408
 import argparse
 import torch
 from torch import nn, optim
