@@ -1,5 +1,9 @@
 "# nlp_ass4"
-Avital Rose 318413408
+In this project I implemented a model from the SNLI competition.
+Details of the results are in the report.pdf.
+The model uses the snli data. https://nlp.stanford.edu/projects/snli/
+
+Instructions about running the project:
 To run the best model, run the file run_test.py. 
 Need to run on gpu
 To run the file, the following files need to be in the folder:
