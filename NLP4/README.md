@@ -9,9 +9,13 @@ Need to run on gpu
 To run the file, the following files need to be in the folder:
     data files:
 glove.840B.300d.txt - glove word embedding 
+
 snli_1.0/snli_1.0_train.txt - train file from snli dataset
+
 snli_1.0/snli_1.0_dev.txt - dev file from snli dataset
+
 snli_1.0/snli_1.0_test.txt - test file from snli dataset
+
     python files:
 model.py
 utils.py
